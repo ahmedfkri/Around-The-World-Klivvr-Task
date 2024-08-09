@@ -50,5 +50,4 @@ The project follows the MVVM (Model-View-ViewModel) architecture:
 - **ViewModel:** Manages UI-related data in a lifecycle-aware manner, using `LiveData` to update the UI.
 - **View:** Activities and Adapters display the data and handle user interactions.
 
-## Package Structure
 
